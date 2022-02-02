@@ -1,0 +1,40 @@
+main {
+  background-image:url('images/0.jpg');
+  }
+
+.hwish {
+    font-family: Pacifico;
+    text-align: center;
+    font-size: 3.5rem;
+    color: #FF00E4;
+    padding: 2%;
+}
+
+.pwish {
+    font-family: Pacifico;
+    text-align: center;
+    font-size: 2rem;
+    color: #8A39E1;
+    margin: 2%;
+    padding: 2%;
+}
+
+body {
+  background-color: #9B0000;
+}
+
+.but {
+ padding: 2%;
+  color: red;
+  text-decoration: none;
+  margin: auto;
+  font-size: 3rem;
+  font-family: Satisfy;
+  border-color: pink;
+  border-radius: 200px;
+  background-color: rgba(250,50,60,0.5);
+}
+
+.center {
+  margin: 40% 40%;
+}
